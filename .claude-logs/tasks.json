@@ -1,0 +1,104 @@
+{
+  "tasks": [
+    {
+      "id": "mq0nwsx7pn9f",
+      "title": "实现会话解析器",
+      "status": "done",
+      "createdAt": "2026-06-05T08:28:32.491Z",
+      "updatedAt": "2026-06-05T08:28:49.737Z",
+      "completedAt": "2026-06-05T08:28:49.734Z",
+      "source": "manual",
+      "sessionId": null,
+      "tags": []
+    },
+    {
+      "id": "mq0nwszsbhdy",
+      "title": "实现任务管理",
+      "status": "done",
+      "createdAt": "2026-06-05T08:28:32.584Z",
+      "updatedAt": "2026-06-05T10:01:33.197Z",
+      "completedAt": "2026-06-05T10:01:33.196Z",
+      "source": "manual",
+      "sessionId": null,
+      "tags": []
+    },
+    {
+      "id": "mq0nwt27qj4g",
+      "title": "测试工作流系统",
+      "status": "done",
+      "createdAt": "2026-06-05T08:28:32.671Z",
+      "updatedAt": "2026-06-05T10:00:00.000Z",
+      "completedAt": "2026-06-05T10:00:00.000Z",
+      "source": "manual",
+      "sessionId": null,
+      "tags": []
+    },
+    {
+      "id": "mq0ogy9ox1w2",
+      "title": "完成网页计算器设计",
+      "status": "done",
+      "createdAt": "2026-06-05T08:44:12.540Z",
+      "updatedAt": "2026-06-05T09:30:00.000Z",
+      "completedAt": "2026-06-05T09:30:00.000Z",
+      "source": "manual",
+      "sessionId": null,
+      "tags": []
+    },
+    {
+      "id": "mq0q2h2zmp40",
+      "title": "设计一个计算器",
+      "status": "done",
+      "createdAt": "2026-06-05T09:28:56.315Z",
+      "updatedAt": "2026-06-05T09:30:00.000Z",
+      "completedAt": "2026-06-05T09:30:00.000Z",
+      "source": "auto",
+      "sessionId": "432ef8be-7b75-414a-897c-3b34317ec5ca",
+      "tags": []
+    },
+    {
+      "id": "fix-extraction",
+      "title": "修复任务提取规则误匹配问题",
+      "status": "done",
+      "createdAt": "2026-06-05T09:30:00.000Z",
+      "updatedAt": "2026-06-05T09:31:00.000Z",
+      "completedAt": "2026-06-05T09:31:00.000Z",
+      "source": "manual",
+      "sessionId": null,
+      "tags": []
+    },
+    {
+      "id": "mq0qs1hntzyo",
+      "title": "完成科学计算器升级",
+      "status": "done",
+      "createdAt": "2026-06-05T09:48:49.163Z",
+      "updatedAt": "2026-06-05T09:49:20.756Z",
+      "completedAt": "2026-06-05T09:49:20.755Z",
+      "source": "manual",
+      "sessionId": null,
+      "tags": []
+    },
+    {
+      "id": "mq0u0t7givid",
+      "title": "更新部署方案文档",
+      "status": "done",
+      "createdAt": "2026-06-05T11:19:37.180Z",
+      "updatedAt": "2026-06-05T11:19:43.274Z",
+      "completedAt": "2026-06-05T11:19:43.273Z",
+      "source": "manual",
+      "sessionId": null,
+      "tags": []
+    },
+    {
+      "id": "mq0v9vag67rf",
+      "title": "看个pdf",
+      "status": "todo",
+      "createdAt": "2026-06-05T11:54:39.400Z",
+      "updatedAt": "2026-06-05T11:54:39.400Z",
+      "completedAt": null,
+      "source": "auto",
+      "sessionId": "db9f3230-d6d0-432b-99a0-3b889117c51d",
+      "tags": []
+    }
+  ],
+  "history": []
+}
